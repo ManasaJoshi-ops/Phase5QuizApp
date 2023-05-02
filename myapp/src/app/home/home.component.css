@@ -1,0 +1,15 @@
+.card {
+  margin-top: 4rem;
+  margin-bottom: 5rem;
+  margin-left: 15rem;
+  width: 25rem;
+}
+.container {
+  align-items: center;
+  /* width: 60%; */
+}
+.heading {
+  padding: 70px 0;
+  border: 3px solid green;
+  text-align: center;
+}
